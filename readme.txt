@@ -1,6 +1,8 @@
 README
 
-matricula - nome
+3938 - Sayonara Bernardes
+5144 - Douglas Boaventura
+5164 - Milena Nobres
 
 	Este projeto tem como intuito uma implementação de um bash de um sistema operacional para a disciplina de sistemas
 Operacionais da UFV - CRP, para execução do codigo é necessario ter na maquina o compilador GCC ou outro no linux (em caso
